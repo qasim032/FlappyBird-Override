@@ -27,5 +27,7 @@ pip install pygame
 python flappy_bird.py
 📂 Source
 Original tutorial: https://www.geeksforgeeks.org/how-to-make-flappy-bird-game-in-pygame/
+
+
 ![image](https://github.com/user-attachments/assets/4bc617dd-0041-45a7-8a54-7a21d02985ef)
 

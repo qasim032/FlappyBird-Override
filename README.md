@@ -29,5 +29,6 @@ python flappy_bird.py
 Original tutorial: https://www.geeksforgeeks.org/how-to-make-flappy-bird-game-in-pygame/
 
 
-![image](https://github.com/user-attachments/assets/4bc617dd-0041-45a7-8a54-7a21d02985ef)
+![image](https://github.com/user-attachments/assets/c1adbd03-27b5-426a-9480-a0dce19b2c8b)
+
 
